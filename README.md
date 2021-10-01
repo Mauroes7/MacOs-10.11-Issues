@@ -1,2 +1,2 @@
-# MacOs-10.11-Issues
+# MacOs-Issues
 MacOS 10.11 Issues with VSCode, JS, Java, Python, Jupyter Notebook...
